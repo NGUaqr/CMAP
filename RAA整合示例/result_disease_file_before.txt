@@ -1,0 +1,22 @@
+"Name"	"Score"
+"drug_file_01.txt"	"drug_file_01.txt"	3.40534804020683e-08
+"drug_file_02.txt"	"drug_file_02.txt"	6.79988780185127e-05
+"drug_file_05.txt"	"drug_file_05.txt"	0.00219774499877479
+"drug_file_06.txt"	"drug_file_06.txt"	0.00746044833117396
+"drug_file_04.txt"	"drug_file_04.txt"	0.00749569812514842
+"drug_file_03.txt"	"drug_file_03.txt"	0.018252841685255
+"drug_file_10.txt"	"drug_file_10.txt"	0.0647020963347534
+"drug_file_11.txt"	"drug_file_11.txt"	0.090946417751454
+"drug_file_12.txt"	"drug_file_12.txt"	0.090946417751454
+"drug_file_09.txt"	"drug_file_09.txt"	0.172537081496513
+"drug_file_13.txt"	"drug_file_13.txt"	0.172537081496513
+"drug_file_08.txt"	"drug_file_08.txt"	0.28125
+"drug_file_07.txt"	"drug_file_07.txt"	0.312147538484987
+"drug_file_14.txt"	"drug_file_14.txt"	0.312147538484987
+"drug_file_15.txt"	"drug_file_15.txt"	1
+"drug_file_16.txt"	"drug_file_16.txt"	1
+"drug_file_17.txt"	"drug_file_17.txt"	1
+"drug_file_18.txt"	"drug_file_18.txt"	1
+"drug_file_19.txt"	"drug_file_19.txt"	1
+"drug_file_20.txt"	"drug_file_20.txt"	1
+"drug_file_21.txt"	"drug_file_21.txt"	1
