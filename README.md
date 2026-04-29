@@ -1,3 +1,1 @@
-# CMAP
-联通图谱算法测试集和实际应用
-------更新
+Benchmarking and Practical Application of the Transition-Aware Connectivity Mapping Algorithm
